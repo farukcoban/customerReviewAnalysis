@@ -1,0 +1,7 @@
+JSONL File Metadata info:
+---------------------------------
+Total Row: 43886944
+Sütun Sayısı: 10
+Colum: ['asin', 'helpful_vote', 'images', 'parent_asin', 'rating', 'text', 'timestamp', 'title', 'user_id', 'verified_purchase']
+Şema:
+struct<asin:string,helpful_vote:bigint,images:array<struct<attachment_type:string,large_image_url:string,medium_image_url:string,small_image_url:string>>,parent_asin:string,rating:double,text:string,timestamp:bigint,title:string,user_id:string,verified_purchase:boolean>
